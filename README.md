@@ -5,7 +5,7 @@ the Library Application improves on many of the poor-programming techniques used
 App are more well designed, minimizing dependency and improving cohesion. While the design for the GUI components is better than the 
 Course Registration App, there are still many improvements that can be made most notably in libraryapp.gui.StudentMenu. One change that 
 I believe vastly improved my QoL is writing completely separate Listeners within libraryapp.gui.utilities. Many JComponents used
-the exact same listener so it made more sense to write a separate class that can be reused multiple times and changed from a sigle file. 
+the exact same listener so it made more sense to write a separate class that can be reused multiple times and changed from a single file. 
 Having attempted to create full-fledged GUI applications multiple times, it is much faster to implement and less intimidating to approach.
 This project pushed me to learn a lot more about correclty using git, designing classes more effeciently, and working with Swing/multithreads.
 
