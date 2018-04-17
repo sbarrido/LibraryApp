@@ -2,7 +2,7 @@
 This Application is to simulate a Library System. In order to challenge and improve upon my Course Registration Application,
 I decided to attempt a GUI implementation of a Library System. While it shares similarities to the Course Registration App,
 the Library Application improves on many of the poor-programming techniques used in the past. The core object models of the Library 
-App is more well designed, minimizing dependency and improving cohesion. While the design for the GUI components is better than the 
+App are more well designed, minimizing dependency and improving cohesion. While the design for the GUI components is better than the 
 Course Registration App, there are still many improvements that can be made most notably in libraryapp.gui.StudentMenu. One change that 
 I believe vastly improved my QoL is writing completely separate Listeners within libraryapp.gui.utilities. Many JComponents used
 the exact same listener so it made more sense to write a separate class that can be reused multiple times and changed from a sigle file. 
