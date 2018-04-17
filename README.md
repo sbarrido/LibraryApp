@@ -25,6 +25,8 @@ Features this includes(April 17, 2018):
 - Search for Books by Author/ISBN/Title
 - Supports Multiple Copies of Same Book
 - View/Pay Overdue Book Penalties
+- State of all objects are maintained in CSV files
+  - Data can outlive changes to UI
 
 Future Implementation:
 - Librarian Menus
